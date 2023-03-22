@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-webpage-using-media-query-and-flexbox--mnhkHxv0I)
 - Live Site URL: [Add live site URL here](https://brilliant-banoffee-e91a29.netlify.app/)
 
 ## My process
